@@ -1,4 +1,4 @@
-# eva-code-agent
+# codebase-embedding
 
 
 ## Installation
